@@ -21,7 +21,7 @@
 #define Y A1
 
 // Defining debounce length
-#define DEBOUNCE 100
+#define DEBOUNCE 10
 
 // Variables
 int Rint, Gint, Bint;
